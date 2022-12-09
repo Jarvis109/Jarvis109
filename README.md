@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saurabh 
 - 👀 I’m interested in open source
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me @https://www.linkedin.com/in/saurabh-verma-5385155b
 
